@@ -71,7 +71,7 @@ The about section provides historical context about tourism in Egypt, adding dep
 Contributions to improve the website are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Apache 2.0](LICENSE).
 
 ---
 
